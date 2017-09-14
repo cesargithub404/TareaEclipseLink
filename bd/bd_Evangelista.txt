@@ -1,0 +1,8 @@
+create database bd_Evangelista
+use bd_Evangelista
+(
+PER_Id CHAR(10),
+PER_NOMBRE VARCHAR(25,1),
+PER_APELLIDO VARCHAR(30,2)
+);
+
